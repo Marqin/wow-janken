@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: Janken
+## Notes: Play Janken with your BNet friends.
+## Author: Marqin
+## Version: 0.0.1
+## X-License: Zlib
+
+janken.lua
+janken.xml
