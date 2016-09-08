@@ -5,3 +5,4 @@
 <Frame name="janken">
     <OnLoad function="janken_OnLoad" />
 </Frame>
+</Ui>
